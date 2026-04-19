@@ -1,0 +1,42 @@
+# langchain
+# langgraph
+# langchain-groq
+# langchain-chroma
+# sentence-transformers
+# uvicorn
+# python-dotenv
+# langchain-community
+# langchain-huggingface
+# fastapi
+# beautifulsoup4
+
+# Web Framework
+fastapi
+uvicorn[standard]
+ipython
+# python-multipart
+
+# LangGraph & Core AI
+langgraph
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+beautifulsoup4
+
+
+# Database & Memory
+# chromadb          # For RAG (Website info)
+# pysqlite3-binary  # For persistent chat memory
+# pydantic-settings # For .env management
+
+# Tools & Scraping
+# beautifulsoup4    # To crawl your WordPress site
+# requests
+# httpx
+
+# Optional: Voice (add these when you're ready for voice)
+# openai-whisper
+# elevenlabs
